@@ -21,3 +21,15 @@ p {
 .btn {
     margin: 0 auto;
 }
+
+.col-md.description {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0 10px;
+
+}
+
+.best-seller-product {
+    margin: 15px;
+}
