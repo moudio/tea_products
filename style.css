@@ -33,3 +33,35 @@ p {
 .best-seller-product {
     margin: 15px;
 }
+
+
+.carousel-item img {
+    filter: brightness(50%);
+}
+
+.best-seller-product {
+    display: flex;
+}
+
+.green-tea-pic {
+    order: 2;
+}
+
+
+@media (min-width: 661px) { 
+.carousel-caption{
+    bottom: 17%;
+    font-size: 2em;
+}
+ }
+
+ @media(min-width: 1266px){
+     .carousel-caption {
+         bottom: 27%;
+     }
+     @media(min-width: 1280px){
+        .carousel-caption {
+            bottom: 33%;
+            font-size: 3em;
+        }
+ }
