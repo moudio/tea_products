@@ -8,7 +8,7 @@ A simple website around teas.
 - JavaScript
 - Bootstrap
 
-![screenshot](./images/app_screenshot.png)
+![screenshot](./Images/app_screenshot.png)
 
 ## Developed by
 
