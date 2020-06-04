@@ -6,8 +6,9 @@ A simple website around teas.
 - HTML
 - CSS
 - JavaScript
+- Bootstrap
 
-![screenshot](./src/screenshot.png)
+![screenshot](./images/screenshot.png)
 
 ## Developed by
 
@@ -15,7 +16,7 @@ Mouhamadou Diouf ( <a href="https://github.com/MouhaDiouf"> @mouhad </a>)
 
 
 ## Live Version
-Live version can be found here: <a href="https://rawcdn.githack.com/MouhaDiouf/tea_products/b35dd7a488e8ba836ebf5eeb2c5ae8394976c8f9/index.html"> Battleship Game </a>
+Live version can be found here: <a href="https://rawcdn.githack.com/MouhaDiouf/tea_products/b35dd7a488e8ba836ebf5eeb2c5ae8394976c8f9/index.html"> Tea Cozy Website </a>
 
 ## Contributing
 
